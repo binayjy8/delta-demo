@@ -1,2 +1,2 @@
 # delta-demo
-This is trail Git&amp;Github repo .
+This is trail Git&amp;Github repo /
