@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo wh
+This is trail Git&amp;Github repo whi
 
 # Teacher
 Sradha Khapra
