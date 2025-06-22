@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the the bi
+This is trail Git&amp;Github repo which is the the big
 
 # Teacher
 Sradha Khapra
