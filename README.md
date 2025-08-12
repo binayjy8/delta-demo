@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the the biggest and here bit of successful the main function
+This is trail Git&amp;Github repo which is the the biggest and here bit of successful the main function t
 
 # Teacher
 Sradha Khapra
