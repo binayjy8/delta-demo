@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the the bigges
+This is trail Git&amp;Github repo which is the the bigge
 
 # Teacher
 Sradha Khapra
