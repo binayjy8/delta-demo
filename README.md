@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the the biggest 
+This is trail Git&amp;Github repo which is the the bigges
 
 # Teacher
 Sradha Khapra
