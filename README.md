@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the repository of the ordinary proje
+This is trail Git&amp;Github repo which is the repository of the ordinary projec
 
 # Teacher
 Sradha Khapra
