@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the repository of the ordina
+This is trail Git&amp;Github repo which is the repository of the ordinar
 
 # Teacher
 Sradha Khapra
