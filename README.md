@@ -5,4 +5,4 @@ This is trail Git&amp;Github repo which is the repository of the ordinary projec
 Sradha Khapra
 
 # Student
-Baby Student Binay bhu
+Baby Student Binay bhus
