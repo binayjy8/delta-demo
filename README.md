@@ -1,5 +1,5 @@
 # delta-demo
-This is trail Git&amp;Github repo which is the repository of the ordinary project and analytics using topno
+This is trail Git&amp;Github repo which is the repository of the ordinary project and analytics using topnot
 
 # Teacher
 Sradha Khapra
